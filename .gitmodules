@@ -1,0 +1,6 @@
+[submodule "rotaryPulser32"]
+	path = rotaryPulser32
+	url = https://github.com/mrWheel/rotaryPulser32.git
+[submodule "rotaryPulser328"]
+	path = rotaryPulser328
+	url = https://github.com/mrWheel/rotaryPulser328.git
